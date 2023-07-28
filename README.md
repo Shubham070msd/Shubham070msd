@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/shubham7msd" target="blank"><img src="https://img.shields.io/twitter/follow/shubham7msd?logo=twitter&style=for-the-badge" alt="shubham7msd" /></a> </p>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **DEVOPS**
 
 - 📫 How to reach me **manjunathhuddar1999@gmail.com**
 
