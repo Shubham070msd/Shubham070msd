@@ -25,3 +25,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham070msd&show_icons=true&locale=en" alt="shubham070msd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham070msd&" alt="shubham070msd" /></p>
+
+### 📈 My GitHub Contributions
+![Snake animation](https://github.com/Shubham070msd/Shubham070msd/github-contribution-grid-snake.svg)
