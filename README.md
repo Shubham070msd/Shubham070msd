@@ -27,4 +27,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham070msd&" alt="shubham070msd" /></p>
 
 ### 📈 My GitHub Contributions
-![Snake animation](https://github.com/Shubham070msd/Shubham070msd/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Shubham070msd/github-contribution-grid-snake.svg)
