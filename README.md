@@ -20,7 +20,7 @@
 name:       Manjunath Huddar
 alias:      Shubham
 role:       DevOps Engineer
-experience: 2+ years in production
+experience: 3 years in production
 location:   Bengaluru, India
 current:    NIDEC Pvt Ltd
 previous:   Block-Stars Pvt Ltd (Seoul, South Korea · Remote)
